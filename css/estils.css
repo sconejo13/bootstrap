@@ -1,0 +1,14 @@
+.dual {
+background-color: orange;
+color: aliceblue;
+}
+.dual80{
+background-color: orange;
+color:aliceblue;
+opacity: 0.8;
+}
+.dual60{
+background-color: orange;
+color: aliceblue;
+opacity: 0.6;
+}
